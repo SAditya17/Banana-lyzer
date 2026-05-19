@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-<a href="https://reworkd.ai/">🔗 Main site</a>
+<a href="https://localhost.ai/">🔗 Main site</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/reworkdai">🐦 Twitter</a>
+<a href="">🐦 Twitter</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a>
 </p>
@@ -179,9 +179,8 @@ This notebook will load a site with Playwright and use the chrome developer API 
 bibtex
 @misc{reworkd2023bananalyzer,
   title        = {Bananalyzer},
-  author       = {Asim Shrestha and Adam Watkins and Rohan Pandey and Srijan Subedi and Sunshine},
-  year         = {2023},
-  howpublished = {GitHub},
-  url          = {https://github.com/reworkd/bananalyzer}
+  author       = {Aditya Singh, Priyanshu Yadav},
+  year         = {2026},
+  howpublished = {GitHub}
 }
 ```
